@@ -106,7 +106,6 @@ make run-r           # R
 make run-perl        # Perl
 make run-ruby        # Ruby
 make run-lua         # Lua
-make run-asm         # Assembly
 ```
 
 ## 정리
@@ -145,7 +144,6 @@ orthogonal2 = [0.0, 1.0]
 ├── Makefile                    # 빌드 자동화 파일
 ├── README.md                   # 프로젝트 설명 파일
 ├── build/                      # 빌드 결과물 디렉터리
-├── cosine_similarity.asm       # Assembly 구현
 ├── cosine_similarity.c         # C 구현
 ├── cosine_similarity.cpp       # C++ 구현
 ├── cosine_similarity.cs        # C# 구현
